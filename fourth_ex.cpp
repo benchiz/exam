@@ -6,6 +6,7 @@ using namespace std;
 
 void funcVariable()
 {
+	setlocale(LC_ALL, "RU");
 	double a, b, d, secondVariable;
 	cout << "4-а€ задача" << endl;
 	cout << "¬ведите A: ";
